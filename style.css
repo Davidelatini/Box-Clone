@@ -1,0 +1,58 @@
+.navbar-brand img {
+  width: 70px;
+  margin-right: 20px;
+}
+
+.nav-item {
+  margin-right: 20px;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.card-img-top {
+  object-fit: cover;
+  aspect-ratio: 1/1;
+}
+
+body {
+  background-color: #f8f9fa; /* Colore di sfondo */
+  color: #343a40; /* Colore del testo principale */
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #dc3545; /* Colore di sfondo del footer */
+  color: white; /* Colore del testo del footer */
+  padding: 10px 0;
+  text-align: center;
+}
+.card-images{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+}
+.card-images img{
+  width: 500px;
+
+}
+.card-contents{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+.card-contents .card-title{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: xx-large;
+
+
+}
